@@ -1,0 +1,105 @@
+\section{Mathematical Equations}\label{mathematical-equations}
+
+\subsection{Algebraic Equations}\label{algebraic-equations}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  Quadratic Equation:
+\item
+  Ax^2+ bx + c = 0
+\item
+  Solution:
+\item
+  x = (-b ± √(b² - 4ac)) / 2a
+\end{enumerate}
+
+\subsection{2. Calculus Formulas}\label{calculus-formulas}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  Derivative of a function:
+\item
+  d/dx f(x) = lim (h → 0) {[}f(x+h) - f(x){]} / h
+\item
+  Integral of a function:
+\item
+  ∫ₐᵇ f(x) dx = F(b) - F(a)
+\end{enumerate}
+
+\subsection{Physics Equations}\label{physics-equations}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  Newton's Second Law:
+\item
+  F = ma^3+34-34/78
+\item
+  Einstein's Energy Equation:
+\item
+  E = mc²
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\item
+  What is the value of in the equation ?
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  d/dx f(x) = lim (h → 0) {[}f(x*h) - f(x){]} / h
+\item
+  d/dx f(x) = lim (h → 0) {[}f(x-h) - f(x){]} / h
+\item
+  d/dx f(x) = lim (h → 0) {[}f(x/h) - f(x){]} / h
+\item
+  d/dx f(x) = lim (h → 0) {[}f(x+h) - f(x){]} / h
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\item
+  What is ?
+\end{enumerate}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.0554}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.4517}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.0495}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.4434}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+a)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\begin{quote}
+\[f^{'}(c) = \frac{1}{2}\]
+\end{quote}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+b)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\begin{quote}
+\[f^{'}(c) = \frac{1}{2}\]
+\end{quote}
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+c) & \begin{minipage}[t]{\linewidth}\raggedright
+\begin{quote}
+\[f^{'}(c) = \frac{1}{2}\]
+\end{quote}
+\end{minipage} & d) & \begin{minipage}[t]{\linewidth}\raggedright
+\begin{quote}
+\[f^{'}(c) = \frac{1}{2}\]
+\end{quote}
+\end{minipage} \\
+\end{longtable}
+
+ax2+bx+c=0
